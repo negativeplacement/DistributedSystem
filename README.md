@@ -12,7 +12,7 @@ Copy the example:
     ```cp .env.example .env```
 
 Open ```.env``` and replace the placeholder values with your own.
-Set the absolute path to the Epstein dataset directory.
+Set the absolute path to the dataset directory.
 
 
 ## 2. Start Docker Services
